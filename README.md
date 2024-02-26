@@ -154,5 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/elmouftakir)
-Jennifer Huang - [Github](https://github.com/ayaa05)
+abderahim el mouftakir - [Github](https://github.com/elmouftakir)
+aya abbadi - [Github](https://github.com/ayaa05)
